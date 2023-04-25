@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">  
-<a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="www.instagram.com" target="_blank"><img  src="https://img.shields.io/badge/-linkedin-%2397E1?style=for-the-badge&logo=linkedin&logoColor=blue"</a>
 </div>
   
 
