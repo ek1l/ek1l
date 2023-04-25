@@ -15,15 +15,16 @@
 </p>
 
 <div align="center">  
-<a href="www.instagram.com" target="_blank"><img  src="https://img.shields.io/badge/-linkedin-%2397E1?style=for-the-badge&logo=linkedin&logoColor=blue"</a>
+<a href="https://www.linkedin.com/in/leonardo-duarte-10a834201/" target="_blank"><img  src="https://img.shields.io/badge/-linkedin-%2397E1?style=for-the-badge&logo=linkedin&logoColor=blue"</a>
 </div>
   
 
 ### Main skills:
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+  ![HTML5](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html&logoColor=orange&labelColor=0D1117)&nbsp; 
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
+![Javascript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=yellow&labelColor=0D1117)&nbsp; 
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
