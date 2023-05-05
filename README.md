@@ -9,7 +9,7 @@
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ek1l&theme=gotham)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ek1l&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
