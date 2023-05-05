@@ -5,6 +5,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ek1l&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ek1l&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ek1l&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
