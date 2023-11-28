@@ -4,7 +4,7 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Duarte;I'm+20+years+old;I+from+Brasil,+MG;I+study+front-end+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
   
   <div align="center">  
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+    ![Leonardo Duarte GitHub stats](https://github-readme-stats.vercel.app/api?username=ek1l&show_icons=true&theme=radical)
   </div>
   
   <div align="center">  
@@ -12,7 +12,6 @@
   </div>
   
   ### Main skills: 
-  
   ![HTML5](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp; 
   ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
   ![BootstrapS](https://img.shields.io/badge/-Bootstrap-0D1117?style=for-the-badge&logo=Bootstrap&labelColor=0D1117)&nbsp;
